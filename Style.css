@@ -6,6 +6,12 @@ html {
   background-color: #485a78;
 }
 
+.logo {
+  float: left;
+  width: 200px;
+  height: 175px;
+}
+
 .body {
   background-color: #4d6a99;
 }
